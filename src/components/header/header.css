@@ -1,0 +1,8 @@
+.header {
+	width: 100%;
+	padding: 24px 36px;
+	background: lightgreen;
+	display: flex;
+	justify-content: space-between;
+	box-sizing: border-box;
+}
